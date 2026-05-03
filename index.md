@@ -118,7 +118,7 @@ Please contact us for requests or inquiries.
 ## 7) Contact
 
 - Developer/Operator: Joa Games
-- Email: korplayer@gmail.com
+- Email: korplayer2025@gmail.com
 
 ## 8) Changes to This Policy
 
