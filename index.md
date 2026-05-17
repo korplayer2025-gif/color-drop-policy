@@ -51,12 +51,23 @@ If you have questions related to children's privacy, please contact us using the
 You may exercise your privacy rights as permitted by applicable law.  
 Please contact us for requests or inquiries.
 
-## 7) Contact
+## 7) Data Deletion Request
+
+Users may request deletion of server-side data related to **Color Drop**.  
+To request data deletion, please contact us at:
+
+- Email: korplayer2025@gmail.com
+
+If possible, please include your in-game nickname or player tag so we can identify the relevant data.  
+Unless retention is required by law, identifiable server-side data will be deleted or anonymized after verification.  
+Data processed by third-party services such as Google AdMob and Google Play Services may be handled according to those providers' own policies and procedures.
+
+## 8) Contact
 
 - Developer/Operator: Joa Games
 - Email: korplayer2025@gmail.com
 
-## 8) Changes to This Policy
+## 9) Changes to This Policy
 
 This policy may be updated due to legal or service changes.  
 Important changes may be announced through in-app notice or the store listing.
@@ -116,11 +127,22 @@ Important changes may be announced through in-app notice or the store listing.
 이용자는 관련 법령이 정한 범위에서 개인정보 관련 권리를 행사할 수 있습니다.  
 권리 행사 및 문의는 아래 연락처로 요청할 수 있습니다.
 
-## 7) 문의처
+## 7) 데이터 삭제 요청
+
+이용자는 **Color Drop** 관련 서버 데이터의 삭제를 요청할 수 있습니다.  
+데이터 삭제를 원하시는 경우 아래 이메일로 요청해 주세요.
+
+- 이메일: korplayer2025@gmail.com
+
+요청 시 가능한 경우 게임 내 닉네임 또는 플레이어 태그를 함께 알려주시면 확인에 도움이 됩니다.  
+법령상 보관이 필요한 경우를 제외하고, 확인 가능한 서버 측 데이터는 삭제하거나 익명화합니다.  
+Google AdMob, Google Play Services 등 제3자 서비스가 처리하는 데이터는 해당 서비스 제공자의 정책과 절차를 따를 수 있습니다.
+
+## 8) 문의처
 
 - 개발자/운영자: Joa Games
 - 이메일: korplayer2025@gmail.com
 
-## 8) 정책 변경
+## 9) 정책 변경
 
 본 방침은 법령 또는 서비스 변경에 따라 수정될 수 있으며, 중요한 변경 사항은 앱 공지 또는 스토어 페이지를 통해 안내할 수 있습니다.
